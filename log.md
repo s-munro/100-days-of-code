@@ -18,3 +18,13 @@
 **Link(s) to work**
 1. https://s-munro.github.io/cv/
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+
+### Day 2: July 27, 2020. Monday
+
+**Today's Progress**: Day 3 (three (woop!)) of Angela's course.  Today I put a couple more hours into it, and got a little past halfway through the CSS and intermediate CSS portions.  I meant to get all the way through, but that may have been a little ambitious.  A lot of this was still review, but I nevertheless encountered some obstacles and stumbled for a moment.  I've now scrapped that initial website and began working on a semi-official CV website.  I'm going to be introducing myself as a developer, and showing some of my design (and minor developmental) skills.  I'm sure I'll keep working on it until its looking nice and neat.  For the time being, I don't have any links to prove it.  I'll take a screenshot and upload the photo tomorrow though.  Today, I don't have much to show.  See you again tomorrow morning!
+
+**Thoughts** This course is very interesting, Angela gives a lot of freedom with the learning, which is a sort of double-edged sword, since it leads to a lot of open-ended googling and challenge.  I'm going to complete the final two hours of CSS tomorrow and begin on Bootstrap.  Things are going to get interesting tomorrow.
+
+**Link(s) to work**
+1. N/A.  I'll upload the work-to-date tomorrow, so keep your eyes peeled for that screenshot!
