@@ -38,3 +38,12 @@
 **Link(s) to work**
 1. How do I work this github image thing
 <img src="Screen Shot 2020-07-28 at 10.37.33 PM.png">
+
+### Day 4: July 29, 2020. Wednesday
+
+**Today's Progress**: We in it baby.  Proud of myself for today.. But first, it's pretty wild that it's already the 29th of the month.  Let me not get sidetracked though.  Today we made good progress.  I'm currently working on the final challenge for the Intermediate CSS portion of the course.  We are re-creating a site with all of the minor details we see in our instructor's site.  It's interesting, and is a little pain-staking.  It's easy to blow-off the small details and call it good enough, but I'm taking a pause on it today so I can continue to fork as much time into as necessary tomorrow, without having to stay up so late like I would be doing tonight.  I'm content though, there's a lot into CSS, and I'm learning some things.  I'll have a lot to study and touch-up on, but I'm very content as of now.  Also, I'm particularly happy because I managed to squeeze my hour in last moment, and still go above and beyond my goal of an hour.  We're still going, and we are GOING. 
+
+**Thoughts** I'm happy with how everything is going.  It doesn't feel like a task for me to do this; I <strong>want</strong> to do this.  Perhaps I just haven't hit the hump of doubt and laziness, but perhaps I've already passed it.  Either way, I'm looking forward to continuing.  
+
+**Link(s) to work**
+1. Not today, just because I don't want to flood the repository with too many images.  Let's scatter them like prizes.  I'll upload the finished file tomorrow just to show what I've done, though.  Quite proud.
