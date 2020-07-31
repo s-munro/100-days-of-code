@@ -52,3 +52,13 @@
 
 **Link(s) to work**
 1. Not today, just because I don't want to flood the repository with too many images.  Let's scatter them like prizes.  I'll upload the finished file tomorrow just to show what I've done, though.  Quite proud.
+
+
+### Day 5: July 30, 2020. Thursday
+
+**Today's Progress**: Big news tomorrow so I'm keeping today's post short.  Today I didn't dive much into writing out code, but looked into learning a little more about front end vs back-end, how the internet works, the history of the web, et cetera.  I'm itching to get back into writing code out though, so we will be back to that shortly.  Thankfully tomorrow marks the beginning of the weekend, which means more free time for me to work on this!
+
+**Thoughts** Big news tomorrow, that I'll be putting on here! Very excited.
+
+**Link(s) to work**
+Not available today
