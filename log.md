@@ -62,3 +62,19 @@
 
 **Link(s) to work**
 Not available today
+
+Screen Shot 2020-08-01 at 12.11.57 AM.png
+
+### Day 6: July 31, 2020. Friday
+
+**Today's Progress**: So today was big news day.  After much research, i decided to switch courses before I dug into too far, so that I could take Andrei Neagoie's Web Dev bootcamp instead.  I chose this just because Andrei has a reputation for his course being very up-to-date, and because he makes 'getting a job' the goal of the course.  This means that the information is relevant, and the projects are something to be proud of.  With that in mind, I dug into it today.
+
+Today I put about three or four hours into it, and made it to the end of advanced CSS.  Andrei definitely moves faster than Angela, and leaves a lot of room for exploring and learning on your own.  Today's greatest progress was learning about flex boxes, and arranging objects in that manner.  Flex boxes seem simple enough in theory, but in application they've been difficult.  I played around with a flexbox app that teaches you flexbox by commanding you to move frog images to various lilipads, and I did very well!  We progressed a bit further; however, and came across a challenge where Andrei asks us to arrange an android logo together with flexbox.  I've had little to no success with this, and will have to dive into research tomorrow, since I'm full of questions.  For the time being, i'll show the relevant images from today below, so that you can get a feel for what I've been doing.
+
+
+**Thoughts** I don't quite like Andrei's teaching style as much, but I appreciate what he does and his goal with the course, so I'm content with the switch.  Regardless, I think it's going to be very hard, so I'm going to have to lean-in and see what I'm made of.  My flexbox project and activities are shown below.  The frog flexbox was arranging the frogs to their corresponding lilipads using flexbox commands.  The android image is our challenge, where we are required to organize the android logo into the correct arrangement.  It's been confusing, but I'm looking forward to waking up early and researching to get the hang of it.  See you tomorrow! :)
+
+**Link(s) to work**
+1. <img src="Screen Shot 2020-08-01 at 12.11.57 AM.png" style="width: 250px; height: 250px;">
+2. <img src="Screen Shot 2020-08-01 at 12.53.50 AM.png" style="width: 250px; height: 250px;">
+
