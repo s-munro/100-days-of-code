@@ -75,6 +75,6 @@ Today I put about three or four hours into it, and made it to the end of advance
 **Thoughts** I don't quite like Andrei's teaching style as much, but I appreciate what he does and his goal with the course, so I'm content with the switch.  Regardless, I think it's going to be very hard, so I'm going to have to lean-in and see what I'm made of.  My flexbox project and activities are shown below.  The frog flexbox was arranging the frogs to their corresponding lilipads using flexbox commands.  The android image is our challenge, where we are required to organize the android logo into the correct arrangement.  It's been confusing, but I'm looking forward to waking up early and researching to get the hang of it.  See you tomorrow! :)
 
 **Link(s) to work**
-1. <img src="Screen Shot 2020-08-01 at 12.11.57 AM.png" style="width: 250px; height: 250px;">
-2. <img src="Screen Shot 2020-08-01 at 12.53.50 AM.png" style="width: 250px; height: 250px;">
+1. <img src="Screen Shot 2020-08-01 at 12.11.57 AM.png" style="width: 150px; height: 150px;">
+2. <img src="Screen Shot 2020-08-01 at 12.53.50 AM.png" style="width: 150px; height: 150px;">
 
