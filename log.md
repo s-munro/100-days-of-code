@@ -75,17 +75,25 @@ Today I put about three or four hours into it, and made it to the end of advance
 **Thoughts** I don't quite like Andrei's teaching style as much, but I appreciate what he does and his goal with the course, so I'm content with the switch.  Regardless, I think it's going to be very hard, so I'm going to have to lean-in and see what I'm made of.  My flexbox project and activities are shown below.  The frog flexbox was arranging the frogs to their corresponding lilipads using flexbox commands.  The android image is our challenge, where we are required to organize the android logo into the correct arrangement.  It's been confusing, but I'm looking forward to waking up early and researching to get the hang of it.  See you tomorrow! :)
 
 **Link(s) to work**
-1. <img src="Screen Shot 2020-08-01 at 12.11.57 AM.png" width="350">
-2. <img src="Screen Shot 2020-08-01 at 12.53.50 AM.png" width="350">
+1. <img src="Screen Shot 2020-08-01 at 12.11.57 AM.png" width="550">
+2. <img src="Screen Shot 2020-08-01 at 12.53.50 AM.png" width="550">
 
 
 ### Day 7: August 1, 2020. Saturday
 
 **Today's Progress**: Today I put an obscene number of hours into the course. We worked all the way through the Advanced CSS, Bootstrap 4, Flexbox, and CSS Grid sections, covering a lot of ground.  It was a difficult day; dealing with formatting and spacing gets confusing quickly, but I'm slowly starting to get the hang of everything.  I'm currently in the process of creating a format/template for a website homepage using a combination of flexbox and CSS grid.  Although I really loved the bootstrap resources, I definitely prefer using flexbox and grid for formatting/aligning/etc.  I attached the final version of the android logo (from yesterday) below, and I'll be sure to upload some of my upcoming work throughout the next couple of days.  See you tomorrow!
 
+Today's projects:
+  1. Android w/ flexbox
+  2. Bootstrap landing page
+  3. Site with email list (MailChimp)
+  4. CSSGrid
+  5. Grid spacing project
+
+
 **Thoughts** 
 Very excited, as per usual.  It's the weekend, so I'm pumping as much time into this as possible, and I'm loving it.  Looking forward to getting started on JavaScript.  I should be able to at least begin the JS section tomorrow, and if tomorrow turns out anything like today, I'll probably be able to power all the way through it.  Anyways, with that, here's the android photo:
 
 **Link(s) to work**
-1. <img src="androidss.png" width="350">
+1. <img src="androidss.png" width="550">
 
