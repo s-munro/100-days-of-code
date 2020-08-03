@@ -97,3 +97,14 @@ Very excited, as per usual.  It's the weekend, so I'm pumping as much time into 
 **Link(s) to work**
 1. <img src="androidss.png" width="550">
 
+
+### Day 8: August 2, 2020. Sunday
+
+**Today's Progress**: Happy Sunday; today was another busy one.  Instead of powering all of the way through the JS portion of my course, I opted to touch-up my CSS Grid/Flexbox project, then walked through the solution and re-did the project in a different manner. I wanted to make sure I really understood what I was doing, since alignment is so key, and I slowed down as I approached the JS section.  Tomorrow, to compensate, I'm going to go through a JS-heavy day.  In the meanwhile, while tonight finishes up, I'm going to begin my own personal project: a portfolio.  I'm planning on slowly working o the foundation for my portfolio, and touching it up over time.  Eventually I'll add my JS projects to it, links to my github, et cetera.
+
+**Thoughts** 
+Today was a good day. My only issue is that I wish there were more hours, so I could keep going.  See you again tomorrow.
+
+**Link(s) to work**
+No images today, my pesky friends.
+
