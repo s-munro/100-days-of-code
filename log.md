@@ -116,6 +116,7 @@ No images today, my pesky friends.
 Liking Javascript; I was afraid that I wouldn't.  It's proved to be interesting.  I'm really wanting to move forward, and incorporate js into a portfolio-in-progress that I'm creating.  I'll probably work on that a bit more before I go to sleep.
 
 **Link(s) to work**
+<br>
 <img src="/github1/Screen Shot 2020-08-03 at 10.12.24 PM.png" width="550">
 
 
