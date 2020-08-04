@@ -108,3 +108,15 @@ Today was a good day. My only issue is that I wish there were more hours, so I c
 **Link(s) to work**
 No images today, my pesky friends.
 
+### Day 9: August 3, 2020. Sunday
+
+**Today's Progress**: Back to monday, we go.  Today I dug into the Javascript portion of Andrei's course.  We worked with basic terminology and concepts, including boolean, arrays, objects, functions, et cetera.  The main thing I've found is that debugging is a totally different world than CSS.  Finding differences in capitalization, semicolons, etc. has been a trip.  Regardless, I'm liking js.  I just got done creating a simplified (and I mean extremely simplified) version of Facebook, with login information, a news feed, and a makeshift list as a pseudo-friendslist.  I'm going to be touching up on that tomorrow to improve it a bit, and I'll move to DOM Manipulation from there.  So far so good!
+
+**Thoughts** 
+Liking Javascript; I was afraid that I wouldn't.  It's proved to be interesting.  I'm really wanting to move forward, and incorporate js into a portfolio-in-progress that I'm creating.  I'll probably work on that a bit more before I go to sleep.
+
+**Link(s) to work**
+<img src="samsjs1.png" width="550">
+
+
+
