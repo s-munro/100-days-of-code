@@ -108,7 +108,7 @@ Today was a good day. My only issue is that I wish there were more hours, so I c
 **Link(s) to work**
 No images today, my pesky friends.
 
-### Day 9: August 3, 2020. Sunday
+### Day 9: August 3, 2020. Monday
 
 **Today's Progress**: Back to monday, we go.  Today I dug into the Javascript portion of Andrei's course.  We worked with basic terminology and concepts, including boolean, arrays, objects, functions, et cetera.  The main thing I've found is that debugging is a totally different world than CSS.  Finding differences in capitalization, semicolons, etc. has been a trip.  Regardless, I'm liking js.  I just got done creating a simplified (and I mean extremely simplified) version of Facebook, with login information, a news feed, and a makeshift list as a pseudo-friendslist.  I'm going to be touching up on that tomorrow to improve it a bit, and I'll move to DOM Manipulation from there.  So far so good!
 
@@ -118,6 +118,18 @@ Liking Javascript; I was afraid that I wouldn't.  It's proved to be interesting.
 **Link(s) to work**
 <br>
 <img src="/github1/Screen Shot 2020-08-03 at 10.12.24 PM.png" width="550">
+
+
+### Day 10: August 4, 2020. Tuesday
+
+**Today's Progress**: Why hello again.  Today we worked on Javascript exclusively.  I didn't have as much time today, so I couldn't force 6 hours into it (what a shame).  After having a day of only a couple hours for learning, I don't understand how people who only give one hour a day would ever learn anything.  Anyways, here's how today was:
+  I introduced functions and forEach() into my repetoire.  Unfortunately, forEach() and some of the syntax for functions didn't make much sense to me.  I like to learn and fully understand concepts, especially when I think they're important, so rather than continuing to DOM, i decided to go to youtube for some help.  With that in mind, I'll link the youtube video I'm watching below; It's a Colt Steele video and I've got to be honest he's a phenomenal teacher.  I'm definitely getting a better grasp on things, but I have yet to finish his section on functions and loops, so I'll fill you in after that.
+  
+**Thoughts** 
+Things got confusing today.  Still determined to power through, but I want to make sure I <strong>understand</strong> things first.  We'll continue forward tomorrow.
+
+**Referenced:**
+https://www.youtube.com/watch?v=x2RNw4M6cME
 
 
 
