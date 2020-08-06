@@ -131,5 +131,13 @@ Things got confusing today.  Still determined to power through, but I want to ma
 **Referenced:**
 https://www.youtube.com/watch?v=x2RNw4M6cME
 
+### Day 11: August 5, 2020. Wednesday
+
+**Today's Progess**: Although I forgot to update my Github, I spent some good time on coding yesterday, and made some pretty solid progress.  I finished up Colt Steele's js youtube intro course (just 3 hours of content, but he's a great teacher).  Rather than continuing with Andrei's course afterward, I dedicated the rest of my night to enhancing the small numbers game we built on Colt's video.  It's a simple number guessing game, where you're asked to input a number between 1 and 10, and the script creates a random number to compare your guesses to.  I went slightly outside of Colt's video, and designed mine not only to recognize non-integers, but also to recognize when the user incorrectly puts integers above the designated parameters. i.e., 1-10 and putting in 11, or 0.  It took me a minute but now I'm gaining a MUCH better grasp on things, so I'm stoked with the progress.  Tomorrow (today now, technically), I'm going to continue extending on that app, putting in a replay-system, where it asks for input y/n to replay, interprets it, and proceeds accordingly, as well as a difficulty setting (choose difficulty between x and y), make the script count how many guesses it took and relay that to you in the end, and give an option to stop the script without finishing it.  Excited :)
+
+**Thoughts**:  Watching Colt's video for extra help was a genius idea, I'm way more comfortable now.  Looking forward to getting these challenges down and proceeding on with the course.  Everything is going well, and I'm feeling more motivated.
+
+**Link(s) to work**:
+1.  I'll figure out how to create a games folder on github, and will upload the game here at some point.
 
 
