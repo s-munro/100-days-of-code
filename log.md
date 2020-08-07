@@ -145,8 +145,9 @@ I went slightly outside of Colt's video, and designed mine not only to recognize
 
 ### Day 12: August 6, 2020. Thursday
 
-**Today's Progress**:  Filling this in later tonight, TBA.
+**Today's Progress**:  So today I worked on the game for a couple of hours, then I proceeded to finish Andrei's beginner javascript portion and move onto DOM manipulation.  I made it pretty far with the game, but got stuck trying to adjust my "repeat game" loop; for some reason I couldn't figure out how to get one of the "else if" paths to work correctly.  That's a problem for later though; I'm going to work through a bit more javascript and return to that.  I don't want to look up a guide, I enjoyed trying to battle it out to find an answer.
 
-**Thoughts**: TBA
+In the meanwhile, DOM seems pretty interesting.  I'm excited to see its capabilities, and am looking forward to adding dark modes/light modes and some similar dom-related changes to my apps.  Cool stuff
 
-**Link(s) to work**: TBA
+**Thoughts**: I've got a better grasp on js than I did a couple of days ago, but I'm still itching to learn more.  After I finish DOM I'm going to be working on "advanced javascript" for quite a while, so we will see how that goes.  This weekend is going to be a major time for learning.
+
