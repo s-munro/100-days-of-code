@@ -168,6 +168,6 @@ In the meanwhile, DOM seems pretty interesting.  I'm excited to see its capabili
 **Thoughts**:  DOM and Javascript are difficult, I still stand by my statement.  We're about to get into the "advanced javascript" portion next, and I can only imagine what that entails.  We'll get through this though, and I'm excited to work towards proficiency with it.  Photos for today below.
 
 **Link to work**:
-1. <img src="github1/bg1.png" width="250">
-2. <img src="github1/bg2.png" width="250">
+1. <img src="github1/bg1.png" width="500">
+2. <img src="github1/bg2.png" width="500" float="right">
 
