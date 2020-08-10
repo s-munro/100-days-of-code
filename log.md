@@ -151,3 +151,23 @@ In the meanwhile, DOM seems pretty interesting.  I'm excited to see its capabili
 
 **Thoughts**: I've got a better grasp on js than I did a couple of days ago, but I'm still itching to learn more.  After I finish DOM I'm going to be working on "advanced javascript" for quite a while, so we will see how that goes.  This weekend is going to be a major time for learning.
 
+### Day 13: August 7, 2020. Friday
+
+**Today's Progress**:  Today I spent most of my time working on CSS/HTML for a real website, which was a great learning experience.  I found that I'm really happy with my CSS and HTML skills; I'm able to search around and figure things out pretty quickly.  I then returned to the javascript game, and eventually moved forward and started the "DOM" portion of the course.
+
+**Thoughts**: Today was a good time.  I'm having a lot of difficulty with Javascript, but I realize its importance and I'm determined to become comfortable with it.
+
+### Day 14: August 8, 2020.  Saturday
+
+**Today's Progress**:  Today will be a short recap, because I didn't spend as much time as I would have liked on programming.  I worked on DOM and got stuck trying to figure out how to modify a to-do list I created.  Specifically, I wanted to make it so you could click elements of the list to mark them done, one-by-one, and I wanted to make 'remove' buttons appear next to items as you add them to the list, so you can delete them.  I came across a lot of difficulty with distinguishing particular list items on-click to mark done, and spent basically the whole day's worth of work trying to figure that out.  I didn't entirely figure it out, so we will have to revisit this soon.
+
+### Day 15: August 9, 2020.  Sunday
+
+**Today's Progress**:  Today I continued working on the DOM to-do list, but I didn't want to spend the whole weekend stuck, so I eventually progressed forward.  I eventually ended out the day with creating a mock-site that allows you to change the background color (gradient) by clicking and dragging a color wheel.  I'll post it below, it was a pretty cool project.  Today was brief, but I'll post the site image below.
+
+**Thoughts**:  DOM and Javascript are difficult, I still stand by my statement.  We're about to get into the "advanced javascript" portion next, and I can only imagine what that entails.  We'll get through this though, and I'm excited to work towards proficiency with it.  Photos for today below.
+
+**Link to work**:
+1. <img src="bg1.png" width="250">
+2. <img src="bg2.png" width="250">
+
