@@ -171,3 +171,13 @@ In the meanwhile, DOM seems pretty interesting.  I'm excited to see its capabili
 1. <img src="github1/bg1.png" width="500">
 2. <img src="github1/bg2.png" width="500" float="right">
 
+### Day 16: August 10, 2020.  Monday
+
+**Today's Progress**:  Today was an interesting/unusual day, because a storm came through town in the early afternoon and actually ended up taking out all of our power for the rest of the day (I'm writing this as on Tuesday, our WiFi just started working again).  Thankfully, I had been building a site with HTML/CSS earlier in the day, so I still managed to get a couple of hours in.  No time with Javascript because of the outage, unfortunately, but still got some valuable time in with creating the site. 
+The site I'm working on is for an e-commerce business that sells specialty cleaners on Amazon and Shopify.  We've hired a freelance photographer to take product/lifestyle images for the site, so I'm having to find creative ways to get the site's structure set up.  What I've decided to do is essentially re-create the McDonald's website to get a base design established (they have a straightforward, simple design with great branding), and I'm going to plug our own photos in as soon as we receive them.  As I write this, I've gotten a decent-sized chunk of the homepage done, and I'll be proceeding to the other pages soon.  I'd also like to utilize this opportunity to play with Javascript for some sort of site application, perhaps a find-a-store locator.  I'll keep you updated though; I may create a whole separate repository for this project, since I'll be working on it daily as a part of my actual job.
+
+**Thoughts**:  Stinks the power went out, but no big deal.  We still got stuff done.  Will keep working on the site tomorrow, and will jump into advanced javascript as well.  See you tomorrow.
+
+**Link to work**:
+1.  Creating the other repository, I'll put it in here
+
