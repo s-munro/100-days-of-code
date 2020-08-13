@@ -181,3 +181,14 @@ The site I'm working on is for an e-commerce business that sells specialty clean
 **Link to work**:
 1.  Creating the other repository, I'll put it in here
 
+### Day 17: August 11, 2020.  Tuesday
+
+**Today's Progress**:  Today we made it a little farther with editing the website.  I found that it seems like I can resort to CSS flexbox for 90% of the alignments I've needed up until this point.  I'd like to take a look into when I should use one over the other, because it seems right now that I could fall into a black hole of only using flexbox.  Perhaps I'll look into that next time I'm working on the site.  Anyways, I didn't spend as much time on programming as I would have liked to today.  I've been very busy during the daytimes, but I really need to get back into the swing of things.  We'll pick it up ASAP.
+
+**Thoughts**:  Needing to return to putting more hours into the course.  I'm making minimal progress at this rate, planning on increasing that throughout the rest of the week though, starting Thursday (probably).
+
+### Day 18: August 12, 2020.  Wednesday
+
+**Today's Progress**:  Today we dug farther into the website, and started with Andrei's advanced javascript portion of the course.  I'd say 90% of the time was spent on the site (I can't blame myself, it's pretty fun), and by the time I started with javascript I was pretty zonked.  I started learning about scope, and how browsers react to re-naming variables in different methods.  I don't entirely understand how it works, so I'm making a note to myself to look into that more before I continue with the javascript portion.
+
+**Thoughts**:  Felt good to put some time into JS today, even if it was just a small amount.  I'd stay up and work on it longer if it weren't so late at night.  I'm about to fall asleep as I write this though, checking out for the night.  Goodnight everyone.
