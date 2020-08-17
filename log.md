@@ -231,4 +231,5 @@ The site I'm working on is for an e-commerce business that sells specialty clean
 **Thoughts**:  Difficult difficult difficult.  I understood a lot of the "advanced" concepts today so I'm pretty stoked about that, but I always come across the same difficulties with arrays and looping through them.  I need to figure this out, it keeps stumping me.  On another note, I created a pages document to keep track of important notes, and I've styled it to be aesthetically appealing (somewhat appealing, at least).  I'll show it below :)
 
 **Link to work**:
+
 <img src="github1/notes.png" height="500">
