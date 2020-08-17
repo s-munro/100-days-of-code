@@ -59,7 +59,7 @@ Today we made good progress.  I'm currently working on the final challenge for t
 
 ### Day 5: August 2, 2020. Sunday
 
-**Today's Progress**: Big news tomorrow so I'm keeping today's post short.  Today I didn't dive much into writing out code, but looked into learning a little more about front end and back-end, and how everything plays together.  I'm itching to get back into writing code out though, so we will be back to that shortly.  Thankfully tomorrow marks the beginning of the weekend, which means more free time for me to work on this!
+**Today's Progress**: Big news tomorrow so I'm keeping today's post short.  Today I didn't dive much into writing out code, but looked into learning a little more about front end and back-end, and how everything plays together.  I'm itching to get back into writing code out though, so we will be back to that shortly.  
 
 **Thoughts** Big news tomorrow, that I'll be putting on here! Very excited.
 
@@ -168,7 +168,7 @@ I went slightly outside of Colt's video, and designed mine not only to recognize
 
 In the meanwhile, DOM seems pretty interesting.  I'm excited to see its capabilities, and am looking forward to adding dark modes/light modes and some similar dom-related changes to my apps.  Cool stuff
 
-**Thoughts**: I've got a better grasp on js than I did a couple of days ago, but I'm still itching to learn more.  After I finish DOM I'm going to be working on "advanced javascript" for quite a while, so we will see how that goes.  This weekend is going to be a major time for learning.
+**Thoughts**: I've got a better grasp on js than I did a couple of days ago, but I'm still itching to learn more.  After I finish DOM I'm going to be working on "advanced javascript" for quite a while, so we will see how that goes.  The upcoming weeks are going to be a major time for learning.
 
 
 
@@ -188,7 +188,7 @@ In the meanwhile, DOM seems pretty interesting.  I'm excited to see its capabili
 
 ### Day 15: August 12, 2020.  Wednesday
 
-**Today's Progress**:  Today I continued working on the DOM to-do list, but I didn't want to spend the whole weekend stuck, so I eventually progressed forward.  I eventually ended out the day with creating a mock-site that allows you to change the background color (gradient) by clicking and dragging a color wheel.  I'll post it below, it was a pretty cool project.  Today was brief, but I'll post the site image below.
+**Today's Progress**:  Today I continued working on the DOM to-do list, but I didn't want to spend the whole day stuck, so I eventually progressed forward.  I eventually ended out the day with creating a mock-site that allows you to change the background color (gradient) by clicking and dragging a color wheel.  I'll post it below, it was a pretty cool project.  Today was brief, but I'll post the site image below.
 
 **Thoughts**:  DOM and Javascript are difficult, I still stand by my statement.  We're about to get into the "advanced javascript" portion next, and I can only imagine what that entails.  We'll get through this though, and I'm excited to work towards proficiency with it.  Photos for today below.
 
