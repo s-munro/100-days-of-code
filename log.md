@@ -226,6 +226,9 @@ The site I'm working on is for an e-commerce business that sells specialty clean
 
 ### Day 19: August 16, 2020.  Sunday
 
-**Today's Progress**:  TBA
+**Today's Progress**:  Today was solid, I spent all of my programming time on Andrei's advanced Javascript portion.  We made it about 1/3 of the way through, perhaps a bit more.  Today we worked on currying and composing in functions, as well as mapping reducing and filtering arrays.  I'm currently stuck working on an array assignment, because I find that I always run into difficulties when I'm working with forEach and accessing object-like arrays.  I'm going to turn in for the night, since I think I'm getting tired, and I'll try and knock it out tomorrow.  Just a lot of researching forEach() loops for one night.  We'll knock it out first thing in the morning tomorrow though.
 
-**Thoughts**:  TBA
+**Thoughts**:  Difficult difficult difficult.  I understood a lot of the "advanced" concepts today so I'm pretty stoked about that, but I always come across the same difficulties with arrays and looping through them.  I need to figure this out, it keeps stumping me.  On another note, I created a pages document to keep track of important notes, and I've styled it to be aesthetically appealing (somewhat appealing, at least).  I'll show it below :)
+
+**Link to work**:
+<img src="notes.png" height="1000">
